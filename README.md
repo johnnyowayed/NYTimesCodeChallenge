@@ -16,7 +16,7 @@
 ## Getting Started
 
 1. First download the project by cloning this repository on Xcode or by downloading the Zip file.
-2. Select the application in the scheme in case it was not selected automatically
+2. Open the project directory in the terminal and run pod install.
 3. Select any iPhone Simulator to run the app on.
 
 ## Pods used
