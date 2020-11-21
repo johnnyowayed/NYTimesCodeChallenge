@@ -35,7 +35,7 @@ Selecting any article directs you to the second page containing the title and de
 
 ## Application Architecture
 
-The NY Time Challenge Code App follows the Model-View-View Model (MVVM) design pattern and uses advanced app development practices including Storyboards and Auto Layout.
+The NY Time Challenge Code App follows the Model-View-View Model (MVVM) design pattern and uses advanced app development practices including Storyboards.
 
 ## Unit Tests
 
