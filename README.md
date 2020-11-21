@@ -16,8 +16,9 @@
 ## Getting Started
 
 1. First download the project by cloning this repository on Xcode or by downloading the Zip file.
-2. Open the project directory in the terminal and run pod install.
-3. Select any iPhone Simulator to run the app on.
+2. Open shell window and navigate to the project.
+3. Run pod install.
+4. Select any iPhone Simulator to run the app on.
 
 ## Pods used
 
@@ -34,6 +35,10 @@ Selecting any article directs you to the second page containing the title and de
 ## Application Architecture
 
 The NY Time Challenge Code App follows the Model-View-View Model (MVVM) design pattern and uses advanced app development practices including Storyboards and Auto Layout.
+
+## Unit Tests
+
+NY Time Challenge Code has a unit test written to test the API that retrieves the news articles as well as a UI test that tests the app when clicking on any article directs you to the details page and then goes back to main page. To run the unit tests press Command+u.
 
 ## Features
 
