@@ -17,8 +17,9 @@
 
 1. First download the project by cloning this repository on Xcode or by downloading the Zip file.
 2. Open shell window and navigate to the project.
-3. Run pod install.
-4. Select any iPhone Simulator to run the app on.
+3. Run `pod install`.
+4. Open the corresponding `.xcworkspace` file.
+5. Select any iPhone Simulator to run the app on.
 
 ## Pods used
 
