@@ -39,7 +39,7 @@ The NY Time Challenge Code App follows the Model-View-View Model (MVVM) design p
 
 ## Unit Tests
 
-NY Time Challenge Code has a unit test written to test the API that retrieves the news articles as well as a UI test that tests the app when clicking on any article directs you to the details page and then goes back to main page. To run the unit tests press Command+u.
+NY Time Challenge Code has a unit test written to test the API that retrieves the news articles as well as a UI test that tests the app when clicking on any article directs you to the details page and then goes back to main page. To run the unit tests press `Command+u`.
 
 ## Features
 
